@@ -1,6 +1,6 @@
-const DB_USER = "admin";
-const DB_PASSWORD = "admin123456";
-const DB_HOST = "web-personal.1hnuc3c.mongodb.net";
+const DB_USER = "test";
+const DB_PASSWORD = "perragata27";
+const DB_HOST = "cluster0.jdduep2.mongodb.net";
 
 const API_VERSION = "v1";
 const IP_SERVER = "localhost";
